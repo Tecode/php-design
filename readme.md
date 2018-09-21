@@ -1,6 +1,6 @@
 ## 安装
 ```bash
-git clone https://github.com/Tecode/php-design
+git clone https://github.com/Tecode/php-design.git
 cd ./php-design
 composer install
 ```
