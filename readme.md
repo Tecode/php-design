@@ -7,7 +7,7 @@ composer install
 
 ## Composer安装
 - Windows系统下载：https://getcomposer.org/Composer-Setup.exe
-- Linx、Mac系统下载：https://getcomposer.org/download/
+- Linux、Mac系统下载：https://getcomposer.org/download/
 
 ## 启动项目
 ```bash
